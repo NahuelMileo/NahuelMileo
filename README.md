@@ -1,16 +1,18 @@
-## Hi there 👋
+Soy estudiante de Licenciatura en Sistemas en la Universidad ORT Uruguay, interesado en el desarrollo web fullstack. 
+Me gusta crear aplicaciones modernas aplicando buenas prácticas, clean code y diseño eficiente.  
+Actualmente creo páginas web de forma freelance y busco crecer profesionalmente.
 
-<!--
-**NahuelMileo/NahuelMileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologías que uso
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Cómo contactarme
+**nahuelmileo@hotmail.com**  
+**[LinkedIn](https://www.linkedin.com/in/nahuelmileo)**
+
