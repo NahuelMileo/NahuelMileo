@@ -1,6 +1,4 @@
-Soy estudiante de Licenciatura en Sistemas en la Universidad ORT Uruguay, interesado en el desarrollo web fullstack. 
-Me gusta crear aplicaciones modernas aplicando buenas prácticas, clean code y diseño eficiente.  
-Actualmente creo páginas web de forma freelance y busco crecer profesionalmente.
+Estudiante de tercer año de Licenciatura en Sistemas en Universidad ORT. Interesado en desarrollo backend con C# y .NET, PostgreSQL y desarrollo de aplicaciones web. Busco mi primera experiencia profesional para seguir creciendo como desarrollador.
 
 ### Tecnologías que uso
 ![Dotnet](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)
