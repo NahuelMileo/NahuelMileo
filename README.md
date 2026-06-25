@@ -1,4 +1,4 @@
-Estudiante de tercer año de Licenciatura en Sistemas en Universidad ORT. Interesado en desarrollo backend con C# y .NET, PostgreSQL y desarrollo de aplicaciones web. Busco mi primera experiencia profesional para seguir creciendo como desarrollador.
+Estudiante de tercer año de Licenciatura en Sistemas en Universidad ORT. Interesado en desarrollo backend con .NET, C#, PostgreSQL y desarrollo de aplicaciones web. Busco mi primera experiencia profesional para seguir creciendo como desarrollador.
 
 ### Tecnologías que uso
 ![Dotnet](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet)
